@@ -18,6 +18,6 @@ The Analytics Files can be found at Settings/Privacy & Security/Analytics & Impr
 
 There will be a bunch of files there. The ones you'll need are of the format "Analytics-YYYY-MM-DD-TTTTTT.ips.ca.synced".
 
-Click on the file and in the sharesheet, Airdrop to your Mac and then in Finder, move the Analytics file to "iDevice Analytics"
+Click on the file and once it opens, click on the sharesheet icon located at the top-right corner and once in the sharesheet, Airdrop to your Mac and then in Finder, move the Analytics file to "iDevice Analytics"
 
 Once you run the script, your battery stats will be saved in the folder "Battery Stats" as a txt file.
